@@ -27,5 +27,3 @@ zhuchao, zhuchao@iosx.me
 ## License
 
 EasyCoreData is available under the MIT license. See the LICENSE file for more info.
-=======
-Chainable Core Data Wrapper written by Swift
