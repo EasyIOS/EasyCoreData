@@ -1,0 +1,24 @@
+{
+  "name": "EasyCoreData",
+  "version": "0.1.0",
+  "summary": "Chainable Core Data Wrapper written by Swift",
+  "description": "                       Chainable Core Data Wrapper written by Swift\n",
+  "homepage": "https://github.com/EasyIOS/EasyCoreData",
+  "license": "MIT",
+  "authors": {
+    "zhuchao": "zhuchao@iosx.me"
+  },
+  "source": {
+    "git": "/Users/zhuchao/Documents/EasyCoreData"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "EasyCoreData": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}

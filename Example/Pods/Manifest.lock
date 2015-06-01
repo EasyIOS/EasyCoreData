@@ -1,0 +1,14 @@
+PODS:
+  - EasyCoreData (0.1.0)
+
+DEPENDENCIES:
+  - EasyCoreData (from `../`)
+
+EXTERNAL SOURCES:
+  EasyCoreData:
+    :path: ../
+
+SPEC CHECKSUMS:
+  EasyCoreData: fa1ab2f8ad74a8a410e07b3985423496ead15809
+
+COCOAPODS: 0.37.0.beta.1

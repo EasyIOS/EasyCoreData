@@ -10,18 +10,16 @@
 Pod::Spec.new do |s|
   s.name             = "EasyCoreData"
   s.version          = "0.1.0"
-  s.summary          = "A short description of EasyCoreData."
+  s.summary          = "Chainable Core Data Wrapper written by Swift"
   s.description      = <<-DESC
-                       An optional longer description of EasyCoreData
-
-                       * Markdown format.
-                       * Don't worry about the indent, we strip it!
+                       Chainable Core Data Wrapper written by Swift
                        DESC
-  s.homepage         = "https://github.com/<GITHUB_USERNAME>/EasyCoreData"
+  s.homepage         = "https://github.com/EasyIOS/EasyCoreData"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author           = { "zhuchao" => "zhuchao@iosx.me" }
-  s.source           = { :git => "https://github.com/<GITHUB_USERNAME>/EasyCoreData.git", :tag => s.version.to_s }
+  #s.source           = { :git => "https://github.com/zhuchaowe/EasyCoreData.git", :tag => s.version.to_s }
+  s.source           = { :git => "/Users/zhuchao/Documents/EasyCoreData"}
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.platform     = :ios, '8.0'

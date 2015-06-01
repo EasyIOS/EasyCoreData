@@ -1,4 +1,5 @@
 # EasyCoreData
+<<<<<<< HEAD
 
 [![CI Status](http://img.shields.io/travis/zhuchao/EasyCoreData.svg?style=flat)](https://travis-ci.org/zhuchao/EasyCoreData)
 [![Version](https://img.shields.io/cocoapods/v/EasyCoreData.svg?style=flat)](http://cocoapods.org/pods/EasyCoreData)
@@ -27,3 +28,6 @@ zhuchao, zhuchao@iosx.me
 ## License
 
 EasyCoreData is available under the MIT license. See the LICENSE file for more info.
+=======
+Chainable Core Data Wrapper written by Swift
+>>>>>>> cf60e677559da20b8ce7c1135bae5001df4b043c

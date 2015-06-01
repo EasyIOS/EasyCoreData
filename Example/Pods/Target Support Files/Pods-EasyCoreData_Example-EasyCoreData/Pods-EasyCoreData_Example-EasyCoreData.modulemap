@@ -1,0 +1,6 @@
+framework module EasyCoreData {
+  umbrella header "Pods-EasyCoreData_Example-EasyCoreData-umbrella.h"
+
+  export *
+  module * { export * }
+}
